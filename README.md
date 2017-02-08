@@ -3,7 +3,6 @@ Revel Nginx
 
 Revel projemizi nginx üzerinden yayınlama.
 
-
 Revel projemizi run edelim ve nginx yeniden başlatalım. 
 
 
